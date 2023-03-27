@@ -17,8 +17,12 @@ export const albumsApi = createApi({
 #####     We Use INVALIDATETAGS to make the query auto fetch whenever we add the data to the server so it automaticcaly sends the second request 
           to fetch the updated data
       
+        ##### To avoid multiple unwanted fetch request we need to create provideTags function
+      
       addAlbum: builder.mutation({
-        invalidatesTags: ["Album"],
+        invalidatesTags: (result, error, user) => {
+          return [{ type: "Album", id: user.id }];
+        },
         query: (user) => {
           return {
             url: "/albums",
