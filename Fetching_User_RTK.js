@@ -2,6 +2,8 @@
 
 ############ Fetching the Data and Adding the TAGS for Automatics refetc option ################
 
+####  Tag System in RTK Query sync the updated data which is out of date after refetching #######
+
 export const albumsApi = createApi({
   reducerPath: "albums",
   baseQuery: fetchBaseQuery({
