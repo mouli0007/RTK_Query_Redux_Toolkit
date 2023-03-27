@@ -13,11 +13,13 @@ export const albumsApi = createApi({
 
   endpoints(builder) {
     return {
-//   Fetching the Albums
-      // Querying
-      fetchAlbums: builder.query({
+  fetchAlbums: builder.query({
         // We use Tags for auto refetching for some scenarios
-        providesTags: ["Album"],
+        // To avoid multiple unwanted fetch request we need to create provideTags function
+
+        providesTags: (result, error, user) => {
+          return [{ type: "Album", id: user.id }];
+        },
         query: (user) => {
           return {
             url: "/albums",
