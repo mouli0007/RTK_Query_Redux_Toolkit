@@ -1,0 +1,249 @@
+{
+  "users": [
+    {
+      "name": "Desiree Funk",
+      "id": 7
+    },
+    {
+      "name": "Mrs. Ernest Stracke",
+      "id": 8
+    },
+    {
+      "name": "Marta Gulgowski",
+      "id": 9
+    },
+    {
+      "name": "Abel Schroeder",
+      "id": 14
+    },
+    {
+      "name": "Celia Hegmann",
+      "id": 15
+    },
+    {
+      "name": "Roxanne Brekke",
+      "id": 16
+    },
+    {
+      "name": "Katrina Treutel",
+      "id": 17
+    },
+    {
+      "name": "Miss Gilbert Herzog",
+      "id": 18
+    },
+    {
+      "name": "Chad Johnston",
+      "id": 19
+    }
+  ],
+  "albums": [
+    {
+      "userId": 8,
+      "title": "Intelligent Plastic Ball",
+      "id": 5
+    },
+    {
+      "userId": 8,
+      "title": "Handcrafted Cotton Chips",
+      "id": 6
+    },
+    {
+      "userId": 8,
+      "title": "Sleek Steel Salad",
+      "id": 7
+    },
+    {
+      "userId": 17,
+      "title": "Bespoke Metal Shoes",
+      "id": 17
+    },
+    {
+      "userId": 17,
+      "title": "Small Concrete Ball",
+      "id": 18
+    },
+    {
+      "userId": 16,
+      "title": "Incredible Cotton Chair",
+      "id": 19
+    },
+    {
+      "userId": 14,
+      "title": "Gorgeous Cotton Fish",
+      "id": 20
+    },
+    {
+      "userId": 14,
+      "title": "Bespoke Soft Bacon",
+      "id": 22
+    },
+    {
+      "userId": 14,
+      "title": "Fantastic Concrete Bike",
+      "id": 23
+    },
+    {
+      "userId": 14,
+      "title": "Modern Metal Shoes",
+      "id": 24
+    },
+    {
+      "userId": 14,
+      "title": "Sleek Soft Pizza",
+      "id": 25
+    },
+    {
+      "userId": 14,
+      "title": "Rustic Rubber Mouse",
+      "id": 26
+    },
+    {
+      "userId": 14,
+      "title": "Practical Steel Chips",
+      "id": 27
+    },
+    {
+      "userId": 14,
+      "title": "Refined Wooden Gloves",
+      "id": 28
+    },
+    {
+      "userId": 14,
+      "title": "Licensed Granite Towels",
+      "id": 29
+    },
+    {
+      "userId": 14,
+      "title": "Intelligent Concrete Salad",
+      "id": 30
+    },
+    {
+      "userId": 14,
+      "title": "Rustic Fresh Cheese",
+      "id": 31
+    },
+    {
+      "userId": 14,
+      "title": "Awesome Rubber Chicken",
+      "id": 32
+    },
+    {
+      "userId": 17,
+      "title": "Practical Cotton Bike",
+      "id": 33
+    },
+    {
+      "userId": 17,
+      "title": "Refined Cotton Chips",
+      "id": 34
+    },
+    {
+      "userId": 18,
+      "title": "Tasty Cotton Chair",
+      "id": 35
+    },
+    {
+      "userId": 17,
+      "title": "Handmade Cotton Hat",
+      "id": 36
+    },
+    {
+      "userId": 17,
+      "title": "Modern Granite Chips",
+      "id": 37
+    },
+    {
+      "userId": 14,
+      "title": "Generic Metal Salad",
+      "id": 40
+    },
+    {
+      "userId": 14,
+      "title": "Bespoke Soft Ball",
+      "id": 41
+    },
+    {
+      "userId": 14,
+      "title": "Ergonomic Cotton Hat",
+      "id": 42
+    },
+    {
+      "userId": 15,
+      "title": "Fantastic Wooden Computer",
+      "id": 43
+    },
+    {
+      "userId": 15,
+      "title": "Handcrafted Concrete Gloves",
+      "id": 44
+    },
+    {
+      "userId": 15,
+      "title": "Unbranded Wooden Cheese",
+      "id": 45
+    },
+    {
+      "userId": 15,
+      "title": "Intelligent Cotton Shirt",
+      "id": 46
+    },
+    {
+      "userId": 15,
+      "title": "Oriental Metal Pizza",
+      "id": 47
+    },
+    {
+      "userId": 15,
+      "title": "Electronic Soft Bike",
+      "id": 48
+    },
+    {
+      "userId": 15,
+      "title": "Ergonomic Frozen Shirt",
+      "id": 49
+    },
+    {
+      "userId": 15,
+      "title": "Handcrafted Frozen Sausages",
+      "id": 50
+    },
+    {
+      "userId": 15,
+      "title": "Gorgeous Metal Shoes",
+      "id": 51
+    },
+    {
+      "userId": 15,
+      "title": "Luxurious Plastic Cheese",
+      "id": 52
+    },
+    {
+      "userId": 14,
+      "title": "Ergonomic Fresh Gloves",
+      "id": 53
+    },
+    {
+      "userId": 7,
+      "title": "Handmade Bronze Cheese",
+      "id": 54
+    },
+    {
+      "userId": 7,
+      "title": "Fantastic Wooden Table",
+      "id": 58
+    },
+    {
+      "userId": 8,
+      "title": "Handmade Wooden Pants",
+      "id": 59
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 54,
+      "url": "https://loremflickr.com/150/150/abstract?lock=94308",
+      "id": 1
+    }
+  ]
+}
